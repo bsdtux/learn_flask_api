@@ -1,0 +1,6 @@
+# IDE specific settings
+.vscode
+.idea
+
+# Keep database files from commit
+data/
